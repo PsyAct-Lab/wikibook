@@ -13,4 +13,4 @@ Lab Website: [https://psyact.org](https://psyact.org)
 
 Lab email: psychiatryinaction@gmail.com
 
-![Lab meeting 2024](../assets/lab_image.2400x2400.jpeg)
+![Lab meeting 2024](../docs/assets/lab_image.png)
