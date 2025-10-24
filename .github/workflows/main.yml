@@ -13,15 +13,13 @@ on:
         required: false
         default: "false"
   push:
-    branches:
-    - master
-    - main
+    branches: [main]
     # If your git repository has the Jupyter Book within some-subfolder next to
     # unrelated files, you can make this run only if a file within that specific
     # folder has been modified.
     #
     paths:
-    - docs/**
+    - "docs/**"
 
 # This job installs dependencies, builds the book, and pushes it to `gh-pages`
 jobs:
@@ -41,6 +39,7 @@ jobs:
         cache: pip # Implicitly uses requirements.txt for cache key
 
     - name: Install dependencies
+      working-directory: docs
       run: pip install -r requirements.txt
 
     # (optional) Cache your executed notebooks between runs
@@ -50,11 +49,13 @@ jobs:
     - name: cache executed notebooks
       uses: actions/cache@v4
       with:
+        working-directory: docs
         path: _build/.jupyter_cache
         key: jupyter-book-cache-${{ hashFiles('requirements.txt') }}
 
     # Build the book
     - name: Build the book
+      working-directory: docs
       run: |
         jupyter-book build .
 
