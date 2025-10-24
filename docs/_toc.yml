@@ -1,0 +1,28 @@
+# Table of contents
+# Learn more at https://jupyterbook.org/customize/toc.html
+
+format: jb-book
+root: index
+parts:
+  - caption: General Information
+    chapters:
+    - file: overview
+    - file: onboarding
+    - file: communication
+    - file: projects_and_people
+    - file: etiquette
+    - file: resources
+    - file: intro
+    - file: markdown
+    - file: notebooks
+    - file: markdown-notebooks
+  - caption: Behavioral Methods
+    chapters:
+    - file: bev/bev_methods
+  - caption: Physiological Methods
+    chapters:
+    - file: pys/pys_methods
+    - file: pys/pupil_data_guide
+  - caption: Computational Methods
+    chapters:
+    - file: computational_modeling
