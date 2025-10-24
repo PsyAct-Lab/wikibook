@@ -16,5 +16,5 @@ Lab email: psychiatryinaction@gmail.com
 ![Lab meeting 2024][2]
 
   [1]: https://osf.io/3m74n
-  [2]: https://mfr.osf.io/export?url=https://osf.io/download/m2h49/?direct=&mode=render&format=2400x2400.jpeg
+  [2]: ../assets/lab_image.2400x2400.jpeg
   [3]: http://psyact.org

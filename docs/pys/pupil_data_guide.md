@@ -28,7 +28,7 @@
 6.	**Quality check**
     •	Open the file and check if it looks correct e.g. (pic below or check effort_anticipation_task/subject for example)
 
-![data example image](https://osf.io/download/ytuka)
+![data example image](../assets/pupil_image.png)
     **Common gotchas to look out for** 
     •	Timestamps look like time-since-trial
     •	Only one eye or no blink flags → Reopen Columns and add the missing eye/flag fields.
