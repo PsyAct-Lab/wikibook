@@ -1,6 +1,6 @@
 
 # Computational Modeling
-We use various computational methods to model and analyze data, including reinforcement learning (RL) models, Bayesian models, value-based decision making models, graph theory and network analyses. <br>Please read more about these methods, check out the [Resources page](https://osf.io/7dq3n/wiki/Resources/).
+We use various computational methods to model and analyze data, including reinforcement learning (RL) models, Bayesian models, value-based decision making models, graph theory and network analyses. <br>Please read more about these methods, check out the [Resources page](resources.md).
 
 
 #### Task and Data Analysis Code
