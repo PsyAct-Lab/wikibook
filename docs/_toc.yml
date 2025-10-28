@@ -26,3 +26,6 @@ parts:
   - caption: Computational Methods
     chapters:
     - file: computational_modeling
+  - caption: Additional Materials
+    chapters:
+    - file: jatos_guide

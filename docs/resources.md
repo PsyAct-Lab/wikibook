@@ -26,7 +26,7 @@
 
 [JATOS](https://www.jatos.org/Installation.html) : JATOS is the backend platform used in our online studies run one [our server](https://jatos.psyact.org/jatos/signin). 
 
-[How to reports stats](../docs/assets/reporting_stats1.pdf) : APA guidelines for how to report your statistics in your scientific work.
+[How to reports stats](../docs/assets/pdfs/reporting_stats1.pdf) : APA guidelines for how to report your statistics in your scientific work.
 
 ### Examples of Forms (request permission)
 
