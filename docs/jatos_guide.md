@@ -1,4 +1,4 @@
-# Jatos Guidelines
+# Jatos Onboarding
 
 Before received an account for our JATOS server, please read the following guide and agree to the terms.
 
