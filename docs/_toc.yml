@@ -13,7 +13,6 @@ parts:
     - file: etiquette
     - file: resources
     - file: intro
-    - file: markdown
     - file: notebooks
     - file: markdown-notebooks
   - caption: Behavioral Methods
