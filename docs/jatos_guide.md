@@ -1,6 +1,6 @@
 # Jatos Onboarding
 
-Before received an account for our JATOS server, please read the following guide and agree to the terms.
+Before received an account for our JATOS server, please read the following guide and fill up [this form](https://forms.gle/uhGYBUS7YtpdneTo9).
 
 <object data="pdfs\jatos_onboard.pdf" type="application/pdf" width="700px" height="700px">
     <embed src="pdfs\jatos_onboard.pdf">
